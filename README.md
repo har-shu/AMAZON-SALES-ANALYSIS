@@ -27,8 +27,19 @@ This Power BI project offers a detailed analysis of Amazon sales across various 
    - Visualizes the total number of shippings, facilitating an understanding of shipping volumes and patterns.
 
 
-              <img width="368" alt="image" src="https://github.com/har-shu/AMAZON-SALES-ANALYSIS/assets/71369996/1c78b466-d074-4885-8d39-61f9782d67d3">
 
+
+
+
+<img width="368" alt="image" src="https://github.com/har-shu/AMAZON-SALES-ANALYSIS/assets/71369996/1c78b466-d074-4885-8d39-61f9782d67d3">
+
+
+
+
+
+
+
+              
 
 
 **Conclusion:**
