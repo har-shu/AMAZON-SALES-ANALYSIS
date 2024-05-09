@@ -31,7 +31,8 @@ This Power BI project offers a detailed analysis of Amazon sales across various 
 
 
 
-<img width="368" alt="image" src="https://github.com/har-shu/AMAZON-SALES-ANALYSIS/assets/71369996/1c78b466-d074-4885-8d39-61f9782d67d3">
+![Dashboard](https://github.com/har-shu/AMAZON-SALES-ANALYSIS/assets/71369996/ceb793ea-0324-428f-99e6-95ff499f4405)
+
 
 
 
